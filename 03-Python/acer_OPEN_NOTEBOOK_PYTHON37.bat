@@ -1,0 +1,1 @@
+powershell -Command "& {C:Python\Python37\Scripts\jupyter-notebook.exe}"
